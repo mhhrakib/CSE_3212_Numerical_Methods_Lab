@@ -1,0 +1,17 @@
+Sir,
+	Just open the directory of the problem that you want to run,
+	Modify "input.txt" as your wish, and
+	Then open the directory in the terminal and copy and paste the following command.
+
+Problem1:
+	javac Problem1.java
+	java Problem1
+
+Probem2:
+	javac Problem2.java
+	java Problem2
+	
+Sir, you can also the run "25.sh" to do all the above for you by following instructions.
+Before running it just run: 
+	chmod +x 25.sh
+in the terminal.
